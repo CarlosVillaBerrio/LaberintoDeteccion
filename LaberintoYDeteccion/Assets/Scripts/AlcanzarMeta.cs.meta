@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01a6259502164944da5cdde73cccc54c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - comienzo: {fileID: 8300000, guid: 514dfaed2534942e8a5c5f7f253ed89b, type: 3}
+  - nivelCompletado: {fileID: 8300000, guid: 48f945eaabaa941da8b22c03b441664a, type: 3}
+  - atrapada: {fileID: 8300000, guid: 84c678c4c8f2643c1afb6f6ab2ad3293, type: 3}
+  - saleDeCasa: {fileID: 8300000, guid: 38086510adb034e45ac30ca6ed62e49a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
